@@ -14,5 +14,5 @@
 * `<label for="label-id">Label: <label>` `id="label-id"`: Provide explicit label
 * `aria-invalid`: Intimate screen reader about form validity.
 * `aria-required`: Intimate screen reader form field is required but no validation.
-* `@input="validateField('name')"`: `@input` sets up an event listner for the `input` event `validateField('name')` is the method being called. When the input event is triggered, this method will be executed with 'name' as the argument.
+* `@input="validateField('name')"`: `@input` sets up an event listner for the `input` event, `validateField('name')` is the method being called. When the input event is triggered, this method will be executed with 'name' as the argument.
 
