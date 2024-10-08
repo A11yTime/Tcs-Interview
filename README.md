@@ -1,4 +1,4 @@
-## Accessibility Consideration of Form and Validation 
+## Accessibility Considerations of Form and Validation 
 * Focus must be set to the error related field when error occur.
 * Error message must be programmatically determined with the associated field to describe user in text.
 * Form must have programmatically determiable label.
